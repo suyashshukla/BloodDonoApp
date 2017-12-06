@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Blood Donor App</string>
+    <string name="d1">"Nikhil Pathak"</string>
+    <string name="d2">Falit Pal</string>
+    <string name="d3">Narendra Tiwary</string>
+    <string name="d4">Falit Pal</string>
+    <string name="d5">Mayank Jain</string>
+
+    <string name="i1"><b>Blood Group :</b> AB- \n Address : Gwalior</string>
+    <string name="i2"><b>Blood Group :</b> B \n Address : Tekanpur</string>
+    <string name="i3"><b>Blood Group :</b> A+ \n Address : Dabra</string>
+    <string name="i4"><b>Blood Group :</b> B- \n Address : Datiya</string>
+    <string name="i5"><b>Blood Group :</b> A- \n Address : Jhansi</string>
+
+    <integer name="m1">1234567890</integer>
+    <integer name="m2">1234567890</integer>
+    <integer name="m3">1234567890</integer>
+    <integer name="m4">1234567890</integer>
+    <integer name="m5">1234567890</integer>
+</resources>
